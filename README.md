@@ -116,7 +116,7 @@ Customers (1) ──────< Sales >────── (1) Cars
 
 ## Dashboard Screenshot
 
-![Dashboard](Screenshots/dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 
 ---
 
